@@ -16,5 +16,11 @@
         "key": "gg",
         "expirydate": "15-06-2026",
         "Allowoffline": false
-    }
+    },
+     {
+        "device_id": "005e330767ffbb0e",
+        "key": "messi",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+     }
 ]
