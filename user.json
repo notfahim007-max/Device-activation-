@@ -23,10 +23,5 @@ l[
         "expirydate": "26-02-2026",
         "Allowoffline": false
     }
-    {
-        "device_id": "005e330767ffbb0e",
-        "key": "xarmy",
-        "expirydate": "26-02-2026",
-        "Allowoffline": false
-    }
+    
 ]
