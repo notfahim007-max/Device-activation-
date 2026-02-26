@@ -28,5 +28,11 @@
         "key": "mohona",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4aeb90f30660825c",
+        "key": "nobita",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
