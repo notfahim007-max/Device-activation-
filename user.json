@@ -34,5 +34,11 @@
         "key": "nobita",
         "expirydate": "15-06-2026",
         "Allowoffline": false
-    }
+    },
+       {
+        "device_id": "4f132cf5283866b0",
+        "key": "00",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+       }
 ]
