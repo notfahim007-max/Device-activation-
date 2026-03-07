@@ -43,13 +43,13 @@
        },
         {
         "device_id": "fefcd108d7875d05",
-        "key": "1day",
+        "key": "7day",
         "expirydate": "07-03-2026",
         "Allowoffline": false
     },
         {
         "device_id": "b6d19840b35331c3",
-        "key": "1daytrial",
+        "key": "7daytrial",
         "expirydate": "07-06-2026",
         "Allowoffline": false
     }
